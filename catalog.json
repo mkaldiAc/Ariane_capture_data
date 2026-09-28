@@ -1,5 +1,10 @@
 {
   "schema_version": "1.0",
   "ariane_version": "1.4.0",
-  "programmes": []
+  "programmes": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "index_path": "programmes/BRECE_LE_GRAND_DOMAINE/index.json"
+    }
+  ]
 }

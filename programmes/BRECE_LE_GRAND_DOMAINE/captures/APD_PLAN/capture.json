@@ -1,0 +1,17 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "APD_PLAN",
+  "sequence": 1,
+  "mode": "INITIALISATION_PROGRAMME",
+  "ariane_version": "1.4.0",
+  "structure_version": "PROPOSEE",
+  "immutable": true,
+  "files": {
+    "sources": "sources.json",
+    "structure_proposee": "structure_proposee.json",
+    "objets_candidats": null,
+    "observations": "observations.json",
+    "relations": "relations.json",
+    "anomalies": "anomalies.json"
+  }
+}

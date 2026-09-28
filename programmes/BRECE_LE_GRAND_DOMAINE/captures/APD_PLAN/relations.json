@@ -1,0 +1,48 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "APD_PLAN",
+  "relations": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_006",
+      "relation_id": "REL_001",
+      "relation_type": "AFFECTE_A",
+      "source_object_id": "DEP_CELLIER_005",
+      "target_object_id": "LOG_005",
+      "external_target": null,
+      "structural_binding_status": null,
+      "page_or_plan": "page 1 — CVP02 - RDC",
+      "source_anchor": "Le repère du cellier reprend explicitement le numéro du logement : « Cellier 005 »",
+      "confidence_score": 99
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_007",
+      "relation_id": "REL_002",
+      "relation_type": "AFFECTE_A",
+      "source_object_id": "DEP_CELLIER_105",
+      "target_object_id": "LOG_105",
+      "external_target": null,
+      "structural_binding_status": null,
+      "page_or_plan": "page 1 — CVP03 - R+1",
+      "source_anchor": "Le repère du cellier reprend explicitement le numéro du logement : « Cellier 105 »",
+      "confidence_score": 99
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_008",
+      "relation_id": "REL_003",
+      "relation_type": "AFFECTE_A",
+      "source_object_id": "DEP_CELLIER_205",
+      "target_object_id": "LOG_205",
+      "external_target": null,
+      "structural_binding_status": null,
+      "page_or_plan": "page 1 — CVP04 - R+2",
+      "source_anchor": "Le repère du cellier reprend explicitement le numéro du logement : « Cellier 205 »",
+      "confidence_score": 99
+    }
+  ]
+}

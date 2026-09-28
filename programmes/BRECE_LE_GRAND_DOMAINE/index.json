@@ -1,0 +1,18 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "captures": [
+    {
+      "capture_id": "APD_PLAN",
+      "sequence": 1,
+      "mode": "INITIALISATION_PROGRAMME",
+      "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/APD_PLAN",
+      "structure_version": "PROPOSEE"
+    }
+  ],
+  "structures": [],
+  "current": {
+    "available": false,
+    "structure_version": null,
+    "path": null
+  }
+}
