@@ -1,0 +1,40 @@
+{
+  "validation_id": "VAL_STR-002",
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "action": "VALIDER_STRUCTURE",
+  "human_approval": true,
+  "ariane_version": "1.4.0",
+  "source_structure_version": "STR-001",
+  "target_structure_version": "STR-002",
+  "approved_candidate_object_ids": [
+    "LVE_SS_02"
+  ],
+  "requested_changes": [
+    "Rattache LVE_SS_02 à CIR_SSOL_2"
+  ],
+  "applied_changes": [
+    {
+      "object_id": "LVE_SS_02",
+      "operation": "SET_PARENT",
+      "from_parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "to_parent_object_id": "CIR_SSOL_2",
+      "result": "APPLIED"
+    }
+  ],
+  "candidate_handling": [
+    {
+      "object_id": "LVE_SS_02",
+      "status": "ALREADY_VALIDATED_IN_SOURCE_STRUCTURE",
+      "note": "LVE_SS_02 appartient déjà à STR-001 ; aucune promotion d'objet candidat n'est nécessaire."
+    }
+  ],
+  "promoted_to_current": {
+    "sources_added": 0,
+    "observations_added": 0,
+    "relations_added": 0,
+    "note": "Aucune donnée supplémentaire ne devient rattachable : l'objet et ses données étaient déjà présents dans CURRENT."
+  },
+  "current_anomalies_updated": [],
+  "historical_captures_modified": false,
+  "autonomous_ai_validation": false
+}
