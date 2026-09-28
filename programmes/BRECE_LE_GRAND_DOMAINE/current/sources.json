@@ -110,6 +110,16 @@
       "document_date": "2022-11-03",
       "sha256": "e4fb7653a5477f37fad80bcbcb772a7f31a2ff17855e206e488cfb86d2f9497c",
       "comment": "Coupes AA - BB - CC"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "CLASSE_V",
+      "source_id": "SRC_012",
+      "filename": "6-PROMO 35- BRECE-lot 30 zac loirie- CLASSE V - purgé.pdf",
+      "document_type": "Dossier Comité d’Engagement Aiguillon (CEA) — Classe V",
+      "document_date": "2023-12-13",
+      "sha256": "34e9240d9e7acd98c379ee24c2b472c40d51f1a05e03b2a9d66232e14135d389",
+      "comment": "Brécé — Lot 30 ZAC Loirie — construction de 22 logements locatifs sociaux"
     }
   ]
 }
