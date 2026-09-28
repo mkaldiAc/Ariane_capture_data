@@ -1,0 +1,95 @@
+{
+  "validation_id": "VAL_STR-001",
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "action": "VALIDER_STRUCTURE",
+  "human_approval": true,
+  "ariane_version": "1.4.0",
+  "source_capture_id": "APD_PLAN",
+  "source_structure_version": "PROPOSEE",
+  "target_structure_version": "STR-001",
+  "approved_candidate_object_ids": [],
+  "requested_changes": [
+    "`LVE_RDC_01` est bien un LVE",
+    "`LPO_RDC_01` et `LPO_RDC_02` ont comme parent physique CIR_RDC",
+    "`DEP_CELLIER_005/105/205` sont des DEP",
+    "`LVE_SS_0` est rattaché à `CIR_SSOL_1/2`",
+    "`EXP_TERRASSE_303/304` sont bien rattachés à 303 et 304"
+  ],
+  "applied_changes": [
+    {
+      "object_id": "LVE_RDC_01",
+      "operation": "CONFIRM_TYPE",
+      "object_type": "LVE",
+      "result": "APPLIED_NO_FIELD_CHANGE"
+    },
+    {
+      "object_id": "LPO_RDC_01",
+      "operation": "SET_PARENT",
+      "from_parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "to_parent_object_id": "CIR_RDC",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "LPO_RDC_02",
+      "operation": "SET_PARENT",
+      "from_parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "to_parent_object_id": "CIR_RDC",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "DEP_CELLIER_005",
+      "operation": "CONFIRM_TYPE",
+      "object_type": "DEP",
+      "result": "APPLIED_NO_FIELD_CHANGE"
+    },
+    {
+      "object_id": "DEP_CELLIER_105",
+      "operation": "CONFIRM_TYPE",
+      "object_type": "DEP",
+      "result": "APPLIED_NO_FIELD_CHANGE"
+    },
+    {
+      "object_id": "DEP_CELLIER_205",
+      "operation": "CONFIRM_TYPE",
+      "object_type": "DEP",
+      "result": "APPLIED_NO_FIELD_CHANGE"
+    },
+    {
+      "object_id": "EXP_TERRASSE_303",
+      "operation": "CONFIRM_PARENT",
+      "parent_object_id": "LOG_303",
+      "result": "APPLIED_NO_FIELD_CHANGE"
+    },
+    {
+      "object_id": "EXP_TERRASSE_304",
+      "operation": "CONFIRM_PARENT",
+      "parent_object_id": "LOG_304",
+      "result": "APPLIED_NO_FIELD_CHANGE"
+    }
+  ],
+  "not_applied_changes": [
+    {
+      "requested_change": "`LVE_SS_0` est rattaché à `CIR_SSOL_1/2`",
+      "result": "NOT_APPLIED_AMBIGUOUS",
+      "reason": "Aucun object_id LVE_SS_0 n'existe dans PROPOSEE ; LVE_SS_02 existe. CIR_SSOL_1/2 ne désigne pas un parent unique. Aucun parent n'a été inféré.",
+      "existing_related_object_id": "LVE_SS_02",
+      "existing_parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "possible_parent_object_ids": [
+        "CIR_SSOL_1",
+        "CIR_SSOL_2"
+      ]
+    }
+  ],
+  "promoted_to_current": {
+    "sources": 11,
+    "observations": 714,
+    "relations": 3,
+    "anomalies": 44
+  },
+  "resolved_current_anomaly_ids": [
+    "ANO_037",
+    "ANO_040"
+  ],
+  "historical_captures_modified": false,
+  "autonomous_ai_validation": false
+}

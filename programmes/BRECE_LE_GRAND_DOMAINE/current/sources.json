@@ -1,0 +1,115 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_001",
+      "filename": "2022-11-03 APD MOe Coupes DD EE et FF.pdf",
+      "document_type": "Plan APD - Coupes DD, EE et FF",
+      "document_date": "2022-11-03",
+      "sha256": "3cfda544a9547162fb3d608aeeceed7b0919daec14ada157daa4340c805d9be0",
+      "comment": "Coupes DD - EE - FF"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_002",
+      "filename": "2022-11-03 APD MOe Facades.pdf",
+      "document_type": "Plan APD - Façades",
+      "document_date": "2022-11-03",
+      "sha256": "648f8b5cf829d9c7d5935a87efceb8d64934f2096290aa325fe7d0e143e1cb0c",
+      "comment": "Façades"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_003",
+      "filename": "2022-11-03 APD MOe Plans Masse Masse RDC Sous-Sol.pdf",
+      "document_type": "Plan APD - Plan masse, masse RDC et sous-sol",
+      "document_date": "2022-11-03",
+      "sha256": "d24d70f610db1c30456ac5cf26fed47a80075a30aee9fda4684a06de1d4d29f0",
+      "comment": "Plan Masse - Masse RDC - Sous-Sol"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_004",
+      "filename": "2022-11-03 APD MOe Plans RDC et Etages .pdf",
+      "document_type": "Plan APD - Plans RDC et étages",
+      "document_date": "2022-11-03",
+      "sha256": "129d1f1cdb64f11604c6258d64d2e8d92c395becd8c1a417c53b1f355a653644",
+      "comment": "PLANS"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_005",
+      "filename": "CVP01 - Sous-sol.pdf",
+      "document_type": "Plan technique APD - Chauffage, Ventilation, Plomberie - Sous-sol",
+      "document_date": "2022-11-03",
+      "sha256": "ef87e5bc03ceb314a391a53483510e9b2a8c0a9cd0ab2d1020129fe581b62934",
+      "comment": "CVP01 - Sous-sol"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_006",
+      "filename": "CVP02 - RDC.pdf",
+      "document_type": "Plan technique APD - Chauffage, Ventilation, Plomberie - RDC",
+      "document_date": "2022-11-03",
+      "sha256": "14d8da23c7c1d5af3ea033b9c6dd9fa76220c464e5273e86de9123999b2d3fe8",
+      "comment": "CVP02 - RDC"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_007",
+      "filename": "CVP03 - R+1.pdf",
+      "document_type": "Plan technique APD - Chauffage, Ventilation, Plomberie - R+1",
+      "document_date": "2022-11-03",
+      "sha256": "01254dc540ac02685d92390d9ceadc7e533787b487ca564bb72951190a73e6b3",
+      "comment": "CVP03 - R+1"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_008",
+      "filename": "CVP04 - R+2.pdf",
+      "document_type": "Plan technique APD - Chauffage, Ventilation, Plomberie - R+2",
+      "document_date": "2022-11-03",
+      "sha256": "8c2bb2305c10e72a44680da225561f35ab4c120a0e340c7bed330eecd4c271d9",
+      "comment": "CVP04 - R+2"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_009",
+      "filename": "CVP05 - R+3.pdf",
+      "document_type": "Plan technique APD - Chauffage, Ventilation, Plomberie - R+3",
+      "document_date": "2022-11-03",
+      "sha256": "69fa04ffebad2f022e5ff3e84fccc1399a48decd0b035b38e2a7a7eb51d2586a",
+      "comment": "CVP05 - R+3"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_010",
+      "filename": "CVP06 - R+4.pdf",
+      "document_type": "Plan technique APD - Chauffage, Ventilation, Plomberie - R+4",
+      "document_date": "2022-11-03",
+      "sha256": "707a8ecea87876b61349cc2ea8aae21b388022de5c9c93db67fc5bce0c3d6078",
+      "comment": "CVP06 - R+4"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "APD_PLAN",
+      "source_id": "SRC_011",
+      "filename": "2022-11-03 APD MOe Coupes AA BB et CC.pdf",
+      "document_type": "Plan APD - Coupes AA, BB et CC",
+      "document_date": "2022-11-03",
+      "sha256": "e4fb7653a5477f37fad80bcbcb772a7f31a2ff17855e206e488cfb86d2f9497c",
+      "comment": "Coupes AA - BB - CC"
+    }
+  ]
+}

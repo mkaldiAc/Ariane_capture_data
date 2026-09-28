@@ -9,10 +9,15 @@
       "structure_version": "PROPOSEE"
     }
   ],
-  "structures": [],
+  "structures": [
+    {
+      "structure_version": "STR-001",
+      "path": "programmes/BRECE_LE_GRAND_DOMAINE/structures/STR-001"
+    }
+  ],
   "current": {
-    "available": false,
-    "structure_version": null,
-    "path": null
+    "available": true,
+    "structure_version": "STR-001",
+    "path": "programmes/BRECE_LE_GRAND_DOMAINE/current"
   }
 }
