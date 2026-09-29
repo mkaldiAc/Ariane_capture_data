@@ -14,6 +14,13 @@
       "mode": "CAPTATION_INCREMENTALE",
       "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/CLASSE_V",
       "structure_version": "STR-002"
+    },
+    {
+      "capture_id": "CCTP",
+      "sequence": 3,
+      "mode": "CAPTATION_INCREMENTALE",
+      "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/CCTP",
+      "structure_version": "STR-003"
     }
   ],
   "structures": [
