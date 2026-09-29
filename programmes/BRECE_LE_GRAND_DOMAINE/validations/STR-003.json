@@ -1,0 +1,219 @@
+{
+  "validation_id": "VAL_STR-003",
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "action": "VALIDER_STRUCTURE",
+  "human_approval": true,
+  "ariane_version": "1.4.0",
+  "source_structure_version": "STR-002",
+  "target_structure_version": "STR-003",
+  "approved_candidate_object_ids": [
+    "ZSE_CLASSE_V_01",
+    "PST_EXT_01",
+    "PST_EXT_02",
+    "PST_EXT_03",
+    "PST_EXT_04",
+    "PST_EXT_05",
+    "PST_EXT_06",
+    "PST_EXT_07",
+    "PST_EXT_08",
+    "PST_EXT_09",
+    "PST_EXT_10",
+    "PST_EXT_11",
+    "CEX_ACCES_VEHICULES_01",
+    "CEX_ACCES_PIETONS_01"
+  ],
+  "requested_changes": [
+    "Créer EXT_BRECE_LE_GRAND_DOMAINE_001 (EXT) sous RES_BRECE_LE_GRAND_DOMAINE_001.",
+    "Rattacher ZSE_CLASSE_V_01 à EXT_BRECE_LE_GRAND_DOMAINE_001.",
+    "Rattacher PST_EXT_01 à PST_EXT_11 à ZSE_CLASSE_V_01.",
+    "Rattacher CEX_ACCES_VEHICULES_01 et CEX_ACCES_PIETONS_01 à EXT_BRECE_LE_GRAND_DOMAINE_001."
+  ],
+  "applied_changes": [
+    {
+      "object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "operation": "CREATE_OBJECT",
+      "object_type": "EXT",
+      "parent_object_id": "RES_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "ZSE_CLASSE_V_01",
+      "operation": "PROMOTE_CANDIDATE_AND_SET_PARENT",
+      "to_parent_object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_01",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_02",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_03",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_04",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_05",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_06",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_07",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_08",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_09",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_10",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "PST_EXT_11",
+      "operation": "PROMOTE_CANDIDATE",
+      "parent_object_id": "ZSE_CLASSE_V_01",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "CEX_ACCES_VEHICULES_01",
+      "operation": "PROMOTE_CANDIDATE_AND_SET_PARENT",
+      "to_parent_object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "CEX_ACCES_PIETONS_01",
+      "operation": "PROMOTE_CANDIDATE_AND_SET_PARENT",
+      "to_parent_object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    }
+  ],
+  "promoted_to_current": {
+    "sources_added": 0,
+    "observations_added": 13,
+    "relations_added": 0,
+    "observation_ids": [
+      "OBS_CLASSE_V_0108",
+      "OBS_CLASSE_V_0109",
+      "OBS_CLASSE_V_0110",
+      "OBS_CLASSE_V_0111",
+      "OBS_CLASSE_V_0112",
+      "OBS_CLASSE_V_0113",
+      "OBS_CLASSE_V_0114",
+      "OBS_CLASSE_V_0115",
+      "OBS_CLASSE_V_0116",
+      "OBS_CLASSE_V_0117",
+      "OBS_CLASSE_V_0118",
+      "OBS_CLASSE_V_0119",
+      "OBS_CLASSE_V_0120"
+    ],
+    "relation_ids": []
+  },
+  "current_anomalies_updated": [
+    {
+      "anomaly_id": "ANO_CLASSE_V_001",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_002",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_003",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_004",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_005",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_006",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_007",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_008",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_009",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_010",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_011",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_012",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_013",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    },
+    {
+      "anomaly_id": "ANO_CLASSE_V_014",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
+    }
+  ],
+  "historical_captures_modified": false,
+  "autonomous_ai_validation": false
+}

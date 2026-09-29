@@ -24,11 +24,15 @@
     {
       "structure_version": "STR-002",
       "path": "programmes/BRECE_LE_GRAND_DOMAINE/structures/STR-002"
+    },
+    {
+      "structure_version": "STR-003",
+      "path": "programmes/BRECE_LE_GRAND_DOMAINE/structures/STR-003"
     }
   ],
   "current": {
     "available": true,
-    "structure_version": "STR-002",
+    "structure_version": "STR-003",
     "path": "programmes/BRECE_LE_GRAND_DOMAINE/current"
   }
 }

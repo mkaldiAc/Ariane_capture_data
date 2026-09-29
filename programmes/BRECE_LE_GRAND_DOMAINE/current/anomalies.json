@@ -628,8 +628,8 @@
       "source_reference": "Pages 5, 6 et 24 — 11 places extérieures / en surface",
       "description": "Le document démontre une zone de stationnement extérieure regroupant 11 places, absente de STR-002. Elle est conservée uniquement comme CANDIDAT_STRUCTURE et n'entre pas dans CURRENT.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -642,8 +642,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 1",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 1, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -656,8 +656,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 2",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 2, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -670,8 +670,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 3",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 3, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -684,8 +684,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 4",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 4, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -698,8 +698,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 5",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 5, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -712,8 +712,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 6",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 6, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -726,8 +726,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 7",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 7, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -740,8 +740,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 8",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 8, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -754,8 +754,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 9",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 9, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -768,8 +768,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 10",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 10, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -782,8 +782,8 @@
       "source_reference": "Page 5 — plan masse — place extérieure n° 11",
       "description": "Le plan masse démontre la place de stationnement extérieure n° 11, absente de STR-002. Elle reste candidate et ses données demeurent en attente de rattachement structurel.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -796,8 +796,8 @@
       "source_reference": "Page 5 — « ACCES VEHICULES »",
       "description": "Le plan masse démontre un accès véhicules extérieur physiquement identifiable et explicitement repéré, absent de STR-002. Il reste CANDIDAT_STRUCTURE.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -810,8 +810,8 @@
       "source_reference": "Page 5 — « ACCES PIETONS »",
       "description": "Le plan masse démontre un accès piétons extérieur physiquement identifiable et explicitement repéré, absent de STR-002. Il reste CANDIDAT_STRUCTURE.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-003"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
