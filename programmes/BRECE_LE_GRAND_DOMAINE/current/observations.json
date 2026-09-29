@@ -32878,6 +32878,81 @@
         "semantic_match_score": 25,
         "transformation_score": 15
       }
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "structure_version": "STR-004",
+      "source_id": "SRC_PC_002",
+      "observation_id": "OBS_PC_0140",
+      "object_id": "PAR_PC_01",
+      "attribute_id": "reference_cadastrale",
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "value_raw": "Préfixe 000 — Section AC — Numéro 190",
+      "value_normalized": "000AC0190",
+      "unit_raw": null,
+      "unit_normalized": null,
+      "page_or_plan": "page 3",
+      "source_anchor": "Rubrique « Références cadastrales » : Préfixe 000, Section AC, Numéro 190.",
+      "identification_mode": "EXPLICITE",
+      "derivation_rule": null,
+      "confidence": {
+        "score": 100,
+        "evidence_score": 30,
+        "object_binding_score": 30,
+        "semantic_match_score": 25,
+        "transformation_score": 15
+      }
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "structure_version": "STR-004",
+      "source_id": "SRC_PC_002",
+      "observation_id": "OBS_PC_0141",
+      "object_id": "PAR_PC_01",
+      "attribute_id": "surface_parcelle",
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "value_raw": "1784 m²",
+      "value_normalized": 1784,
+      "unit_raw": "m²",
+      "unit_normalized": "m²",
+      "page_or_plan": "page 3",
+      "source_anchor": "Même ligne cadastrale : « Superficie de la parcelle cadastrale (en m²) : 1784 ».",
+      "identification_mode": "EXPLICITE",
+      "derivation_rule": null,
+      "confidence": {
+        "score": 100,
+        "evidence_score": 30,
+        "object_binding_score": 30,
+        "semantic_match_score": 25,
+        "transformation_score": 15
+      }
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "structure_version": "STR-004",
+      "source_id": "SRC_PC_005",
+      "observation_id": "OBS_PC_0142",
+      "object_id": "PAR_PC_01",
+      "attribute_id": "reference_cadastrale",
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "value_raw": "000AC0190",
+      "value_normalized": "000AC0190",
+      "unit_raw": null,
+      "unit_normalized": null,
+      "page_or_plan": "page 1",
+      "source_anchor": "Attestation RE2020 : « Référence(s) cadastrale(s) : 000AC0190 ».",
+      "identification_mode": "EXPLICITE",
+      "derivation_rule": null,
+      "confidence": {
+        "score": 100,
+        "evidence_score": 30,
+        "object_binding_score": 30,
+        "semantic_match_score": 25,
+        "transformation_score": 15
+      }
     }
   ]
 }

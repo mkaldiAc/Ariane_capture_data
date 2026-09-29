@@ -1062,8 +1062,8 @@
       "source_reference": "page 3 — références cadastrales",
       "description": "Le dossier PC démontre une parcelle cadastrale 000 AC 190 de 1 784 m². STR-004 ne contient aucun objet PAR. La parcelle est conservée comme CANDIDAT_STRUCTURE sous FON_BRECE_LE_GRAND_DOMAINE_001 et reste hors CURRENT.",
       "confidence_score": 100,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-005"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",

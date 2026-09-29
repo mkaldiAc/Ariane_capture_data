@@ -45,6 +45,36 @@
       "source_anchor": "Le repère du cellier reprend explicitement le numéro du logement : « Cellier 205 »",
       "confidence_score": 99,
       "structure_version": "STR-001"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "structure_version": "STR-004",
+      "source_id": "SRC_PC_002",
+      "relation_id": "REL_PC_001",
+      "relation_type": "IMPLANTE_SUR",
+      "source_object_id": "RES_BRECE_LE_GRAND_DOMAINE_001",
+      "target_object_id": "PAR_PC_01",
+      "external_target": null,
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "page_or_plan": "page 3",
+      "source_anchor": "Le terrain du projet est identifié par la référence cadastrale 000 AC 190.",
+      "confidence_score": 100
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "structure_version": "STR-004",
+      "source_id": "SRC_PC_005",
+      "relation_id": "REL_PC_002",
+      "relation_type": "IMPLANTE_SUR",
+      "source_object_id": "RES_BRECE_LE_GRAND_DOMAINE_001",
+      "target_object_id": "PAR_PC_01",
+      "external_target": null,
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "page_or_plan": "page 1",
+      "source_anchor": "Attestation RE2020 de la construction : référence cadastrale 000AC0190.",
+      "confidence_score": 100
     }
   ]
 }
