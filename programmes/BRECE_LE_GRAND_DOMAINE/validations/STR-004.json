@@ -1,0 +1,42 @@
+{
+  "validation_id": "VAL_STR-004",
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "action": "VALIDER_STRUCTURE",
+  "human_approval": true,
+  "ariane_version": "1.4.0",
+  "source_structure_version": "STR-003",
+  "target_structure_version": "STR-004",
+  "approved_candidate_object_ids": [
+    "VEG_CCTP_01"
+  ],
+  "requested_changes": [
+    "Espaces verts paysagers au solVEG_CCTP_01Détecté dans CCTP · parent EXT_BRECE_LE_GRAND_DOMAINE_001"
+  ],
+  "applied_changes": [
+    {
+      "object_id": "VEG_CCTP_01",
+      "operation": "PROMOTE_CANDIDATE",
+      "object_type": "VEG",
+      "parent_object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    }
+  ],
+  "promoted_to_current": {
+    "sources_added": 0,
+    "observations_added": 1,
+    "relations_added": 0,
+    "observation_ids": [
+      "OBS_CCTP_0342"
+    ],
+    "relation_ids": []
+  },
+  "current_anomalies_updated": [
+    {
+      "anomaly_id": "ANO_CCTP_001",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-004"
+    }
+  ],
+  "historical_captures_modified": false,
+  "autonomous_ai_validation": false
+}

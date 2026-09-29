@@ -922,8 +922,8 @@
       "source_reference": "Pages 359 à 361 ; additif page 5",
       "description": "Le CCTP démontre des espaces verts paysagers au sol avec engazonnements, haies et plantations d'arbres, tandis que STR-003 ne contient aucun objet VEG. Un candidat VEG est créé sous l'EXT validé ; il reste hors CURRENT.",
       "confidence_score": 99,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-004"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",

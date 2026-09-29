@@ -29375,6 +29375,31 @@
         "semantic_match_score": 25,
         "transformation_score": 13
       }
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "CCTP",
+      "structure_version": "STR-003",
+      "source_id": "SRC_014",
+      "observation_id": "OBS_CCTP_0342",
+      "object_id": "VEG_CCTP_01",
+      "attribute_id": "nombre_arbres",
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "value_raw": "5 érables et 3 merisiers",
+      "value_normalized": 8,
+      "unit_raw": null,
+      "unit_normalized": null,
+      "page_or_plan": "page 5",
+      "source_anchor": "Lot n°17 — 5 érables et 3 merisiers en baliveau",
+      "identification_mode": "DEDUIT",
+      "derivation_rule": "Somme des quantités explicites : 5 + 3 = 8 arbres.",
+      "confidence": {
+        "score": 99,
+        "evidence_score": 30,
+        "object_binding_score": 30,
+        "semantic_match_score": 25,
+        "transformation_score": 14
+      }
     }
   ]
 }
