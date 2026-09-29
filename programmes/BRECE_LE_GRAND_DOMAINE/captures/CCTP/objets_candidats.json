@@ -1,0 +1,21 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "CCTP",
+  "structure_version": "STR-003",
+  "objects": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "CCTP",
+      "structure_version": "STR-003",
+      "object_id": "VEG_CCTP_01",
+      "object_type": "VEG",
+      "object_status": "CANDIDAT_STRUCTURE",
+      "label": "Espaces verts paysagers au sol",
+      "parent_object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "source_id": "SRC_013",
+      "candidate_anomaly_id": "ANO_CCTP_001",
+      "confidence_score": 98,
+      "source_anchor": "Pages 359 à 361 : espaces verts, engazonnements, haies et plantations d'arbres ; additif page 5 : essences d'arbres"
+    }
+  ]
+}
