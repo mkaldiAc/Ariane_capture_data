@@ -1050,6 +1050,79 @@
       "confidence_score": 98,
       "resolution_status": "OUVERTE",
       "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_002",
+      "anomaly_id": "ANO_PC_001",
+      "anomaly_type": "OBJET_STRUCTURE_ABSENT",
+      "object_id": "PAR_PC_01",
+      "proposed_object_type": "PAR",
+      "source_reference": "page 3 — références cadastrales",
+      "description": "Le dossier PC démontre une parcelle cadastrale 000 AC 190 de 1 784 m². STR-004 ne contient aucun objet PAR. La parcelle est conservée comme CANDIDAT_STRUCTURE sous FON_BRECE_LE_GRAND_DOMAINE_001 et reste hors CURRENT.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_010",
+      "anomaly_id": "ANO_PC_002",
+      "anomaly_type": "INCOHERENCE_STRUCTURE",
+      "object_id": "ZSI_SS_01",
+      "proposed_object_type": null,
+      "source_reference": "page 1 — PC.4 Notice architecturale",
+      "description": "La notice PC indique 21 places de stationnement prévues en sous-sol. STR-004 contient 22 objets PST sous ZSI_SS_01. Le CERFA page 9 indique 32 places au total, cohérent avec 21 sous-sol + 11 extérieures, alors que STR-004 totalise 33 places. La structure validée n'est pas modifiée pendant cette captation.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "supporting_source_ids": [
+        "SRC_PC_002"
+      ]
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_010",
+      "anomaly_id": "ANO_PC_003",
+      "anomaly_type": "SOURCE_AMBIGUE",
+      "object_id": "LVE_RDC_01",
+      "proposed_object_type": null,
+      "source_reference": "pages 1 et 2 — PC.4 Notice architecturale",
+      "description": "Le même document indique deux surfaces différentes pour le local vélos du RDC : 50,98 m² en page 1 et 51,70 m² dans le tableau de la page 2. Les deux observations sont conservées sans sélection automatique.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_010",
+      "anomaly_id": "ANO_PC_004",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": null,
+      "proposed_object_type": null,
+      "source_reference": "page 4 — aire de compostage",
+      "description": "La notice décrit une aire de compostage d'environ 6 m² (5,53 m² sur le schéma) avec 2 bacs de 800 L. Aucun type d'objet patrimonial ARIANE ne permet de représenter sans interprétation cette aire extérieure ; aucun candidat n'est fabriqué.",
+      "confidence_score": 99,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_010",
+      "anomaly_id": "ANO_PC_005",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": "EXT_BRECE_LE_GRAND_DOMAINE_001",
+      "proposed_object_type": null,
+      "source_reference": "pages 1 et 3 — gestion des eaux pluviales",
+      "description": "La notice décrit un puits d'infiltration et une cuve de rétention au nord de la parcelle. Le référentiel ne définit pas d'objet dédié à ces ouvrages et l'attribut presence_bassin_retention ne doit pas être assimilé automatiquement à une cuve de rétention ; aucune valeur n'est forcée.",
+      "confidence_score": 99,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
     }
   ]
 }

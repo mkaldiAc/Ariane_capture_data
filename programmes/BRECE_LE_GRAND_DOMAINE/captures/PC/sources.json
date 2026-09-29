@@ -1,0 +1,116 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "PC",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_001",
+      "filename": "Arrêté PC N°3503923M0003 - LOT 30 -.pdf",
+      "document_type": "Arrêté de permis de construire",
+      "document_date": "2023-08-07",
+      "sha256": "9d8cc3e02363918e746467c93b86aad3a638e482288a179f21cbd7ae88b187bb",
+      "comment": "Permis n° PC 35039 23 M0003 ; demande déposée le 01/03/2023 et complétée le 17/05/2023."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_002",
+      "filename": "Mairie Brece_20230907_145838.pdf",
+      "document_type": "Formulaire de demande de permis de construire (CERFA 13409*10)",
+      "document_date": "2023-05-09",
+      "sha256": "b81c506a910a0356e229118e8213b654364164e11173f608e4deba49e79a76ee",
+      "comment": "Formulaire signé le 09/05/2023, reçu en mairie le 17/05/2023."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_003",
+      "filename": "Mairie Brece_20230907_145924.pdf",
+      "document_type": "Fiche de renseignements gestion eaux pluviales et coefficient de végétalisation",
+      "document_date": null,
+      "sha256": "d934c635827d7e667ccd6353ed057b7c24f354931f6a76df0b9e810209cf76a1",
+      "comment": "Reçue en mairie le 01/03/2023."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_004",
+      "filename": "Mairie Brece_20230907_150032.pdf",
+      "document_type": "Récépissé de déclaration de permis de construire — Ordre des architectes",
+      "document_date": "2022-12-02",
+      "sha256": "061db4fbad5024ea903651b51461494755a335c5526e5ddcbfa0adb852ff59c0",
+      "comment": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_005",
+      "filename": "Mairie Brece_20230907_150113.pdf",
+      "document_type": "Attestation de prise en compte de la réglementation environnementale RE2020 au dépôt du PC",
+      "document_date": "2022-11-29",
+      "sha256": "e56b93e654dcfb19fedc0c6dfdabb5f44f8e07db29ec0fa816e530ac4c942c06",
+      "comment": "Document de 3 pages utiles, suivi d'une page blanche."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_006",
+      "filename": "Mairie Brece_20230907_150352.pdf",
+      "document_type": "Rapport d'étude de faisabilité des approvisionnements en énergie",
+      "document_date": "2022-11",
+      "sha256": "c2ad5a2f935b04ee5d586c6f7002b14fdb486b944d32e9e41fe5635680017a18",
+      "comment": "Étude Thalem Ingénierie n°22-044, étude n°1."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_007",
+      "filename": "Mairie Brece_20230907_150659.pdf",
+      "document_type": "PDF composite — notice accessibilité et attestations foncières",
+      "document_date": null,
+      "sha256": "2f7d24da32ecf7d47eb178d71fd0f4d206bcfabd9dc6d4fcd5c9521f786abed5",
+      "comment": "Page 1 : notice explicative version décembre 2016 ; pages 2-3 : attestations SNC CEBEL datées du 05/12/2022."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_008",
+      "filename": "Mairie Brece_20230907_150745.pdf",
+      "document_type": "Cahier de prescriptions architecturales et paysagères — ZAC Centre-Bourg et Loirie",
+      "document_date": "2021-04",
+      "sha256": "2ecd47d51319686f3269ad3d8b1a3d1be455299f0fdd063ecaefb82ba87d4358",
+      "comment": "Document prescriptif général ; aucune prescription générique n'est interprétée comme caractéristique réalisée du programme."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_009",
+      "filename": "Mairie Brece_20230907_150813.pdf",
+      "document_type": "Pièces complémentaires du permis de construire — documents graphiques",
+      "document_date": "2023-05-09",
+      "sha256": "b7685c358dca49ed5712e605079bd9bec9e6cd2b5bafa56afc857898cbd2782b",
+      "comment": "Liste des pièces complémentaires datée du 09/05/2023 ; certains plans portent une date antérieure."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_010",
+      "filename": "Mairie Brece_20230907_150844.pdf",
+      "document_type": "PC.4 — Notice architecturale",
+      "document_date": null,
+      "sha256": "752d7d853304dad9f46b23cdda21177b2fcfbad4c5c2af189b9146dbc07af065",
+      "comment": "Reçue en mairie le 17/05/2023 et annexée à l'arrêté du 07/08/2023."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "source_id": "SRC_PC_011",
+      "filename": "Mairie Brece_20230907_150916.pdf",
+      "document_type": "PC05 — Façades (page de garde)",
+      "document_date": "2023-05-09",
+      "sha256": "840ca52a52e37d1dcb1605a3ef36338952ac0ca33fc00e60e3d435010ae0a94b",
+      "comment": "Le PDF fourni contient uniquement la page de garde PC05."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "PC",
+  "structure_version": "STR-004",
+  "objects": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PC",
+      "structure_version": "STR-004",
+      "object_id": "PAR_PC_01",
+      "object_type": "PAR",
+      "object_status": "CANDIDAT_STRUCTURE",
+      "label": "Parcelle cadastrale AC 190",
+      "parent_object_id": "FON_BRECE_LE_GRAND_DOMAINE_001",
+      "source_id": "SRC_PC_002",
+      "candidate_anomaly_id": "ANO_PC_001",
+      "confidence_score": 100,
+      "source_anchor": "CERFA page 3 : Préfixe 000, Section AC, Numéro 190, superficie 1784 m²."
+    }
+  ]
+}
