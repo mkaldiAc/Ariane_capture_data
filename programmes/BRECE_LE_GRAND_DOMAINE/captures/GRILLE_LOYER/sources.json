@@ -1,0 +1,26 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "GRILLE_LOYER",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_001",
+      "filename": "Brécé_Lot 30-actualisation 9PLUS 9PLAI.pdf",
+      "document_type": "Grille de loyers PLUS/PLAI",
+      "document_date": null,
+      "sha256": "27d331c9d71a988b0187525ca4035e264e538f9976a3359951234200894a7966",
+      "comment": "18 logements, tableau détaillé zone 3, p. 1. Pied de page 17/11/2026, date d'établissement non prouvée."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_002",
+      "filename": "BRECE lot 30-4 PLS-loyer 2025.pdf",
+      "document_type": "Grille de loyers PLS",
+      "document_date": null,
+      "sha256": "3d66c8155399a7071ade655389cdc4e262b44c48b0c4da33b18e9273ba771db6",
+      "comment": "4 logements, tableau détaillé, p. 1. Nom du fichier 2025, pied de page 17/11/2026 : date d'établissement non prouvée."
+    }
+  ]
+}

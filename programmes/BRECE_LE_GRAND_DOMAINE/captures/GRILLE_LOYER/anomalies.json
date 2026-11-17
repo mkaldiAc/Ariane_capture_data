@@ -1,0 +1,76 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "GRILLE_LOYER",
+  "anomalies": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_001",
+      "anomaly_id": "ANO_GRILLE_LOYER_001",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": null,
+      "proposed_object_type": null,
+      "source_reference": "p. 1, colonnes loyers et coefficients",
+      "description": "Loyers, modulation, plafonds et loyers de stationnement non captables : aucun attribut canonique ARIANE 1.4.0 ne correspond à ces valeurs. Aucun attribut inventé.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_002",
+      "anomaly_id": "ANO_GRILLE_LOYER_002",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": null,
+      "proposed_object_type": null,
+      "source_reference": "p. 1, loyers et stationnements",
+      "description": "Loyers PLS, coefficients de calcul et loyers de stationnement non captables au regard du catalogue d'attributs ARIANE 1.4.0.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_001",
+      "anomaly_id": "ANO_GRILLE_LOYER_003",
+      "anomaly_type": "INCOHERENCE_STRUCTURE",
+      "object_id": "RES_BRECE_LE_GRAND_DOMAINE_001",
+      "proposed_object_type": "PST",
+      "source_reference": "p. 1 des deux PDF, tableaux Stationnements",
+      "description": "Les deux grilles déclarent au total 42 places de stationnement (24 PLUS/PLAI et 18 PLS) alors que STR-005 contient 33 objets PST. Ces grilles ne permettent pas de distinguer et identifier univoquement des places manquantes : aucun nouveau PST candidat.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_002",
+      "anomaly_id": "ANO_GRILLE_LOYER_004",
+      "anomaly_type": "SOURCE_AMBIGUE",
+      "object_id": null,
+      "proposed_object_type": "PST",
+      "source_reference": "p. 1, tableau Stationnements, Garage fermé superstructure",
+      "description": "La cellule nombre de garages fermés en superstructure contient l'erreur de formule #NOM?. Aucune quantité déduite.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "GRILLE_LOYER",
+      "source_id": "SRC_GRILLE_LOYER_001",
+      "anomaly_id": "ANO_GRILLE_LOYER_005",
+      "anomaly_type": "INCOHERENCE_STRUCTURE",
+      "object_id": null,
+      "proposed_object_type": "EXP",
+      "source_reference": "p. 1, colonnes Surface annexe réelle - Balcon",
+      "description": "Les lignes 303, 304, 401 et 402 mentionnent des Balcons de 26,40 ; 17,65 ; 17,75 ; 17,50 m² tandis que STR-005 contient pour ces logements des EXP_TERRASSE. L'identité physique balcon/terrasse n'étant pas démontrée, ces quatre surfaces restent non rattachées ; aucun nouvel objet créé.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
+    }
+  ]
+}
