@@ -1,0 +1,16 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "LISTING_ENTREPRISES",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "LISTING_ENTREPRISES",
+      "source_id": "SRC_LISTING_ENTREPRISES_001",
+      "filename": "Listing_entreprises(1).pdf",
+      "document_type": "Listing des entreprises intervenantes par lot de travaux et contacts de chantier",
+      "document_date": null,
+      "sha256": "f8f974a1b1a76d612da586e7eec94e43c4b17aa19cae81c926e37e44ce7cc326",
+      "comment": "Une page numérisée. Tableau imprimé de 17 lignes couvrant les lots 1 à 18 (lots 11/12 groupés), avec noms, courriels et téléphones de contacts manuscrits. Date non indiquée."
+    }
+  ]
+}

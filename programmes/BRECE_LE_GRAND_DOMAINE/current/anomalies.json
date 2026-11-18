@@ -1417,6 +1417,48 @@
       "confidence_score": 100,
       "resolution_status": "OUVERTE",
       "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "LISTING_ENTREPRISES",
+      "source_id": "SRC_LISTING_ENTREPRISES_001",
+      "object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "proposed_object_type": null,
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_LISTING_ENTREPRISES_001",
+      "source_reference": "page 1 — lot 4 : Bardage / LAMY CHARPENTE",
+      "description": "Le lot 4 « Bardage » mentionne l'entreprise LAMY CHARPENTE. Aucun attribut canonique entreprise_bardage n'est défini pour BAT. La raison sociale ne permet pas de requalifier ce marché en entreprise_charpente ; l'information reste documentée par la source et la présente anomalie."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "LISTING_ENTREPRISES",
+      "source_id": "SRC_LISTING_ENTREPRISES_001",
+      "object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "proposed_object_type": null,
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_LISTING_ENTREPRISES_002",
+      "source_reference": "page 1 — lots 6, 8, 10, 11/12, 14 et 18",
+      "description": "Des sous-spécialités de lots ne possèdent pas d'attribut entreprise dédié dans le référentiel : porte sectionnelle (lot 6), fermetures (8), plafond et isolation (10), chape et revêtements de sols souples (11/12), chauffage et ventilation (14), clôtures (18). Les observations émises portent uniquement sur les composantes canoniquement couvertes."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "LISTING_ENTREPRISES",
+      "source_id": "SRC_LISTING_ENTREPRISES_001",
+      "object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "proposed_object_type": null,
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "confidence_score": 97,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_LISTING_ENTREPRISES_003",
+      "source_reference": "page 1 — colonnes Présence signature / Suivi de chantier et annotation en bas de page",
+      "description": "Les noms d'interlocuteurs, adresses mail, téléphones et la mention manuscrite de coordination SPS sont présents, mais ne correspondent à aucun attribut canonique adapté sur BAT. Ils ne sont pas captés dans des attributs non normés ; ils demeurent dans le PDF source."
     }
   ]
 }
