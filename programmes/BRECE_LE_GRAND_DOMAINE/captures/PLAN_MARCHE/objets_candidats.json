@@ -1,0 +1,35 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "PLAN_MARCHE",
+  "structure_version": "STR-005",
+  "objects": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PLAN_MARCHE",
+      "structure_version": "STR-005",
+      "object_id": "CIR_SAS_SSOL_PLAN_MARCHE_01",
+      "object_type": "CIR",
+      "object_status": "CANDIDAT_STRUCTURE",
+      "label": "SAS Ss-sol",
+      "parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "source_id": "SRC_PLAN_MARCHE_001",
+      "candidate_anomaly_id": "ANO_PLAN_MARCHE_001",
+      "confidence_score": 97,
+      "source_anchor": "p.4 plan de sous-sol, SAS physiquement visible ; p.12 rubrique communs « SAS Ss-sol » 10,88 m²"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PLAN_MARCHE",
+      "structure_version": "STR-005",
+      "object_id": "PIE_402_PL_PLAN_MARCHE_01",
+      "object_type": "PIE",
+      "object_status": "CANDIDAT_STRUCTURE",
+      "label": "PL — logement 402",
+      "parent_object_id": "LOG_402",
+      "source_id": "SRC_PLAN_MARCHE_001",
+      "candidate_anomaly_id": "ANO_PLAN_MARCHE_002",
+      "confidence_score": 94,
+      "source_anchor": "p.11 logement _402 T2, ligne « PL » 0,96 m² distincte de « Chambre » 14,13 m²"
+    }
+  ]
+}

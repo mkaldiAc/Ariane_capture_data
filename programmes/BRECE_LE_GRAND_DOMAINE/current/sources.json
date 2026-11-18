@@ -270,6 +270,16 @@
       "document_date": null,
       "sha256": "3d66c8155399a7071ade655389cdc4e262b44c48b0c4da33b18e9273ba771db6",
       "comment": "4 logements, tableau détaillé, p. 1. Nom du fichier 2025, pied de page 17/11/2026 : date d'établissement non prouvée."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "PLAN_MARCHE",
+      "source_id": "SRC_PLAN_MARCHE_001",
+      "filename": "Plan_marche.pdf",
+      "document_type": "Dossier de plans architecturaux phase MARCHÉ — 43 pages",
+      "document_date": "2024-01-05",
+      "sha256": "66d63fa346a338d0d7e63f75db6c116bec8f23f3fd71d09a2d637110381ffd3e",
+      "comment": "TRICOT Architecture, Brécé Lot 30 (22 logements). Plans du 05/01/2024, certaines planches de phase DCE datées du 30/06/2023. Tableau de surfaces logements p.11 et parties communes/annexes p.12."
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "PLAN_MARCHE",
+  "sequence": 6,
+  "mode": "CAPTATION_INCREMENTALE",
+  "ariane_version": "1.4.0",
+  "structure_version": "STR-005",
+  "immutable": true,
+  "files": {
+    "sources": "sources.json",
+    "objets_candidats": "objets_candidats.json",
+    "observations": "observations.json",
+    "relations": "relations.json",
+    "anomalies": "anomalies.json"
+  },
+  "counts": {
+    "sources": 1,
+    "objects_candidates": 2,
+    "observations": 562,
+    "observations_attached": 557,
+    "observations_pending": 5,
+    "relations": 0,
+    "anomalies": 6
+  },
+  "document_pages_analysed": 43
+}
