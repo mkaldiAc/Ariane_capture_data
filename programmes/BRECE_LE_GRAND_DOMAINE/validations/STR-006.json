@@ -1,0 +1,63 @@
+{
+  "validation_id": "VAL_STR-006",
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "action": "VALIDER_STRUCTURE",
+  "human_approval": true,
+  "ariane_version": "1.4.0",
+  "source_structure_version": "STR-005",
+  "target_structure_version": "STR-006",
+  "approved_candidate_object_ids": [
+    "CIR_SAS_SSOL_PLAN_MARCHE_01",
+    "CAG_ESC_02_EDD"
+  ],
+  "requested_changes": [],
+  "applied_changes": [
+    {
+      "object_id": "CIR_SAS_SSOL_PLAN_MARCHE_01",
+      "operation": "PROMOTE_CANDIDATE",
+      "object_type": "CIR",
+      "parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    },
+    {
+      "object_id": "CAG_ESC_02_EDD",
+      "operation": "PROMOTE_CANDIDATE",
+      "object_type": "CAG",
+      "parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "result": "APPLIED"
+    }
+  ],
+  "promoted_to_current": {
+    "sources_added": 0,
+    "observations_added": 6,
+    "relations_added": 0,
+    "observation_ids": [
+      "OBS_PLAN_MARCHE_0475",
+      "OBS_PLAN_MARCHE_0476",
+      "OBS_EDD_0566",
+      "OBS_EDD_0567",
+      "OBS_EDD_0568",
+      "OBS_EDD_0569"
+    ],
+    "relation_ids": []
+  },
+  "current_anomalies_updated": [
+    {
+      "anomaly_id": "ANO_PLAN_MARCHE_001",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-006"
+    },
+    {
+      "anomaly_id": "ANO_EDD_001",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-006"
+    },
+    {
+      "anomaly_id": "ANO_EDD_002",
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-006"
+    }
+  ],
+  "historical_captures_modified": false,
+  "autonomous_ai_validation": false
+}

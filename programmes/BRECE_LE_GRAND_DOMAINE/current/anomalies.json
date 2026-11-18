@@ -1205,8 +1205,8 @@
       "source_reference": "p.4 et p.12 SAS Ss-sol 10,88 m²",
       "description": "SAS de circulation au sous-sol, physiquement identifié, ne figure pas comme objet propre de STR-005. Candidat CIR avec parent BAT démontré ; aucune promotion CURRENT.",
       "confidence_score": 97,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-006"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -1289,8 +1289,8 @@
       "source_reference": "Plan p.2 Esc.2 ; EDD p.3 art. 1.1",
       "description": "Escalier 2 physiquement identifiable au sous-sol, distinct de l'escalier 1 ; STR-005 ne possède que CAG_01. Objet candidat non promu.",
       "confidence_score": 98,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-006"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
@@ -1303,8 +1303,8 @@
       "source_reference": "Plan p.2 SAS Ss-sol ; EDD p.3 art. 1.1",
       "description": "SAS du sous-sol identifié physiquement sur le plan, absent de STR-005. Réemploi de l'identifiant candidat conservé dans PLAN_MARCHE ; aucune promotion dans CURRENT.",
       "confidence_score": 98,
-      "resolution_status": "OUVERTE",
-      "resolved_by_structure_version": null
+      "resolution_status": "RESOLUE",
+      "resolved_by_structure_version": "STR-006"
     },
     {
       "programme_id": "BRECE_LE_GRAND_DOMAINE",
