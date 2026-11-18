@@ -1403,6 +1403,20 @@
       "confidence_score": 98,
       "resolution_status": "OUVERTE",
       "resolved_by_structure_version": null
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ATTESTATION_VENTE",
+      "source_id": "SRC_ATTESTATION_VENTE_001",
+      "anomaly_id": "ANO_ATTESTATION_VENTE_001",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": "PAR_PC_01",
+      "proposed_object_type": null,
+      "source_reference": "Attestation p.1, rubrique AU PROFIT DE et PROPRIETE - JOUISSANCE",
+      "description": "La vente désigne SA D'HLM AIGUILLON CONSTRUCTION (SIREN 699200051) comme acquéreur et indique une propriété/jouissance acquise à la signature de l'acte. Aucun attribut canonique ARIANE 1.4.0 ne décrit directement l'identité de l'acquéreur foncier, son SIREN ou la date de prise de jouissance distincte de l'acte. Ne pas les assimiler à maitrise_ouvrage, vendeurs_operation ou à une relation juridique de servitude ; les mentions restent conservées dans la source documentaire et cette anomalie.",
+      "confidence_score": 100,
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null
     }
   ]
 }

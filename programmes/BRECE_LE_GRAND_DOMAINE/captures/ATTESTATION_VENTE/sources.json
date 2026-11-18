@@ -1,0 +1,16 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "ATTESTATION_VENTE",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ATTESTATION_VENTE",
+      "source_id": "SRC_ATTESTATION_VENTE_001",
+      "filename": "Attestation de vente (Sans prix) - SSP.pdf",
+      "document_type": "Attestation notariée de vente de terrain à bâtir",
+      "document_date": "2023-12-21",
+      "sha256": "37dff81d9ae956f899ed2b164d0a050bd19ddace458c9eabf882511d7341b7ac",
+      "comment": "2 pages ; acte reçu le 21/12/2023 par Maître Marie-Pascale NICOLAZO ; attestation signée électroniquement le 21/12/2023 à 18:31:49 ; absence de prix dans la pièce fournie."
+    }
+  ]
+}

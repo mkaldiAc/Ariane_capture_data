@@ -49,6 +49,13 @@
       "mode": "CAPTATION_INCREMENTALE",
       "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/EDD",
       "structure_version": "STR-005"
+    },
+    {
+      "capture_id": "ATTESTATION_VENTE",
+      "sequence": 8,
+      "mode": "CAPTATION_INCREMENTALE",
+      "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/ATTESTATION_VENTE",
+      "structure_version": "STR-006"
     }
   ],
   "structures": [
