@@ -63,6 +63,13 @@
       "mode": "CAPTATION_INCREMENTALE",
       "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/LISTING_ENTREPRISES",
       "structure_version": "STR-006"
+    },
+    {
+      "capture_id": "ASSURANCE_DO",
+      "sequence": 10,
+      "mode": "CAPTATION_INCREMENTALE",
+      "path": "programmes/BRECE_LE_GRAND_DOMAINE/captures/ASSURANCE_DO",
+      "structure_version": "STR-006"
     }
   ],
   "structures": [

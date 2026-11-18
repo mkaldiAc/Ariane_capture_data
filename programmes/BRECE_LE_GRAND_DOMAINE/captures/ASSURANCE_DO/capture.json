@@ -1,0 +1,23 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "ASSURANCE_DO",
+  "sequence": 10,
+  "mode": "CAPTATION_INCREMENTALE",
+  "ariane_version": "1.4.0",
+  "structure_version": "STR-006",
+  "immutable": true,
+  "files": {
+    "sources": "sources.json",
+    "objets_candidats": "objets_candidats.json",
+    "observations": "observations.json",
+    "relations": "relations.json",
+    "anomalies": "anomalies.json"
+  },
+  "counts": {
+    "sources": 1,
+    "objects_candidates": 0,
+    "observations": 23,
+    "relations": 0,
+    "anomalies": 5
+  }
+}

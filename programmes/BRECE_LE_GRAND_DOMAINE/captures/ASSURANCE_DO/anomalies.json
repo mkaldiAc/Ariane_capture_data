@@ -1,0 +1,76 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "ASSURANCE_DO",
+  "anomalies": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ASSURANCE_DO",
+      "source_id": "SRC_ASSURANCE_DO_001",
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_ASSURANCE_DO_001",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "proposed_object_type": null,
+      "source_reference": "pages 37 à 41 – SARL LAMY CHARPENTES, attestation Thélem 2024",
+      "description": "L'attestation Thélem n° TDCB02629694 de SARL LAMY CHARPENTES couvre notamment les bardages de façade, période 01/01/2024–31/12/2024. Dans le jeu documentaire du programme, cette entreprise est associée à un lot de bardage ; aucun attribut canonique assurance_entreprise_bardage ne permet une captation fidèle. Ne pas l'assimiler à assurance_entreprise_charpente sans démonstration d'un marché de charpente dans le programme.",
+      "confidence_score": 97
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ASSURANCE_DO",
+      "source_id": "SRC_ASSURANCE_DO_001",
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_ASSURANCE_DO_002",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": "PRG_BRECE_LE_GRAND_DOMAINE",
+      "proposed_object_type": null,
+      "source_reference": "pages 117 à 123 – GEOREST.A et assurés associés, attestation GLOBAL INGENIERIE",
+      "description": "Assurance SMABTP GLOBAL INGENIERIE n° H76597K7302000 / 001 591158/8, valable 01/01/2024–31/12/2024 : la source décrit GEOREST.A et des missions d'ingénierie géotechnique, sans attribut canonique propre assurance_bet_geotechnique. Ne pas assimiler arbitrairement à assurance_bet_structure.",
+      "confidence_score": 98
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ASSURANCE_DO",
+      "source_id": "SRC_ASSURANCE_DO_001",
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_ASSURANCE_DO_003",
+      "anomaly_type": "SOURCE_AMBIGUE",
+      "object_id": "PRG_BRECE_LE_GRAND_DOMAINE",
+      "proposed_object_type": null,
+      "source_reference": "ensemble des pages 1 à 135 – recueil d'attestations d'assurance des intervenants",
+      "description": "Le fichier est un recueil d'attestations de responsabilité décennale/professionnelle des intervenants, malgré l'identifiant de capture ASSURANCE_DO. Aucune police de dommages-ouvrage souscrite par le maître d'ouvrage ni son assureur ne sont établis par les pièces examinées. Ne pas renseigner assureur_do par analogie avec les assureurs des entreprises.",
+      "confidence_score": 99
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ASSURANCE_DO",
+      "source_id": "SRC_ASSURANCE_DO_001",
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_ASSURANCE_DO_004",
+      "anomaly_type": "ATTRIBUT_NON_CAPTABLE",
+      "object_id": "PRG_BRECE_LE_GRAND_DOMAINE",
+      "proposed_object_type": null,
+      "source_reference": "page 113 – MMA, SAS VINCENT BELLAY, opération Aiguillon Construction à Brécé",
+      "description": "L'attestation spécifique à l'opération mentionne le coût prévisionnel de construction tous corps d'état 2 919 036 € HT, la prestation de l'assuré 147 526 € HT, et une date DOC 28/11/2023. Aucun attribut canonique de coût correspondant n'a été identifié, et la date DOC n'est pas assimilée sans justification à date_droc. Les mentions restent tracées dans la source.",
+      "confidence_score": 95
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ASSURANCE_DO",
+      "source_id": "SRC_ASSURANCE_DO_001",
+      "resolution_status": "OUVERTE",
+      "resolved_by_structure_version": null,
+      "anomaly_id": "ANO_ASSURANCE_DO_005",
+      "anomaly_type": "RATTACHEMENT_AMBIGU",
+      "object_id": "PRG_BRECE_LE_GRAND_DOMAINE",
+      "proposed_object_type": null,
+      "source_reference": "pages 108 à 112 – SARL TRICOT ARCHITECTURE",
+      "description": "L'attestation MAF documente le statut d'architecte et la police n°139196/B, mais ne détaille pas, à elle seule, la mission exacte de conception confiée pour ce programme. L'observation assurance_architecte_conception est une correspondance présumée, nécessitant confirmation métier de l'affectation.",
+      "confidence_score": 82
+    }
+  ]
+}

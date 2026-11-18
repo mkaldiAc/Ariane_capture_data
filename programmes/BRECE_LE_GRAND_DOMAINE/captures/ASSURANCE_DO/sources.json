@@ -1,0 +1,16 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "ASSURANCE_DO",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "ASSURANCE_DO",
+      "source_id": "SRC_ASSURANCE_DO_001",
+      "filename": "Assurances_corps_etat_DO.pdf",
+      "document_type": "Recueil d’attestations d’assurances décennales et responsabilité civile des entreprises et prestataires de construction",
+      "document_date": null,
+      "sha256": "5e4f6e8880f9fb8f7af8d7747c6705cce41ce1054ebac99a091aeb0f4372c028",
+      "comment": "PDF de 135 pages, attestations de plusieurs assurés émises à des dates différentes (notamment 2023-2024). La période de chaque attestation est conservée par observation. Ne constitue pas à lui seul une police dommages-ouvrage souscrite par le maître d'ouvrage."
+    }
+  ]
+}
