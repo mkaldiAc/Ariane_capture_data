@@ -1,0 +1,36 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "EDD",
+  "relations": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "structure_version": "STR-005",
+      "source_id": "SRC_EDD_001",
+      "relation_id": "REL_EDD_001",
+      "relation_type": "IMPLANTE_SUR",
+      "source_object_id": "RES_BRECE_LE_GRAND_DOMAINE_001",
+      "target_object_id": "PAR_PC_01",
+      "external_target": null,
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "page_or_plan": "page 3",
+      "source_anchor": "Articles 1.1 et 1.2, immeuble Ty ar Bleiz implanté sur la parcelle cadastrale AC 190, 2 rue de la Garenne",
+      "confidence_score": 100
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "structure_version": "STR-005",
+      "source_id": "SRC_EDD_003",
+      "relation_id": "REL_EDD_002",
+      "relation_type": "IMPLANTE_SUR",
+      "source_object_id": "RES_BRECE_LE_GRAND_DOMAINE_001",
+      "target_object_id": "PAR_PC_01",
+      "external_target": null,
+      "structural_binding_status": "RATTACHE_STRUCTURE_VALIDEE",
+      "page_or_plan": "page 3",
+      "source_anchor": "Articles 1.1 et 1.2, immeuble Ty ar Bleiz implanté sur la parcelle cadastrale AC 190, 2 rue de la Garenne",
+      "confidence_score": 100
+    }
+  ]
+}

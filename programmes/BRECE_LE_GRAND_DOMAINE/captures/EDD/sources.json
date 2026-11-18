@@ -1,0 +1,36 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "EDD",
+  "sources": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "source_id": "SRC_EDD_001",
+      "filename": "243542B_BRECE_2 rue la Garenne_TY AR BLEIZ_EDD.pdf",
+      "document_type": "État descriptif de division",
+      "document_date": "2025-07-02",
+      "sha256": "1d52bbcda4de1b0aa942b5544584d01d950e5962fc02d8c10f1093dabf6b507a",
+      "comment": "11 pages, QUARTA, Dimitri HELIAS, établi 02/07/2025 ; signature 04/07/2025 ; 53 lots."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "source_id": "SRC_EDD_002",
+      "filename": "SJ20243542B-Plans_EDD_LOCATIF.pdf",
+      "document_type": "Plans locatifs annexés à l'EDD",
+      "document_date": "2025-01-31",
+      "sha256": "a0249c02941ad3ba5e6085af3a5d53903af8fb96fcf37a60f788c4d183acaa6e",
+      "comment": "8 plans QUARTA, réduction 31/01/2025 ; signature 04/07/2025 ; plan masse et niveaux."
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "source_id": "SRC_EDD_003",
+      "filename": "243542B_BRECE_2 rue la Garenne_TY AR BLEIZ_Cahier_des_Charges.pdf",
+      "document_type": "Cahier des charges de copropriété",
+      "document_date": "2025-07-02",
+      "sha256": "b77321ef3de300fd19b0f6ac0c7d013102021f21748c1fad2244aa8b417bd299",
+      "comment": "11 pages, QUARTA, établi 02/07/2025 ; tableau des charges p.10."
+    }
+  ]
+}

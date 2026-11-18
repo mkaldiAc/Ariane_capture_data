@@ -1,0 +1,25 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "EDD",
+  "sequence": 7,
+  "mode": "CAPTATION_INCREMENTALE",
+  "ariane_version": "1.4.0",
+  "structure_version": "STR-005",
+  "immutable": true,
+  "files": {
+    "sources": "sources.json",
+    "objets_candidats": "objets_candidats.json",
+    "observations": "observations.json",
+    "relations": "relations.json",
+    "anomalies": "anomalies.json"
+  },
+  "counts": {
+    "sources": 3,
+    "objects_candidates": 2,
+    "observations": 569,
+    "observations_attached": 565,
+    "observations_pending": 4,
+    "relations": 2,
+    "anomalies": 9
+  }
+}

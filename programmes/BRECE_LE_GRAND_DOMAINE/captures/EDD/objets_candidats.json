@@ -1,0 +1,35 @@
+{
+  "programme_id": "BRECE_LE_GRAND_DOMAINE",
+  "capture_id": "EDD",
+  "structure_version": "STR-005",
+  "objects": [
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "structure_version": "STR-005",
+      "object_id": "CAG_ESC_02_EDD",
+      "object_type": "CAG",
+      "object_status": "CANDIDAT_STRUCTURE",
+      "label": "Escalier 2 du sous-sol",
+      "parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "source_id": "SRC_EDD_002",
+      "candidate_anomaly_id": "ANO_EDD_001",
+      "confidence_score": 97,
+      "source_anchor": "Plan QUARTA p.2 Esc.2 distinct d'Esc.1 ; EDD p.3 art.1.1 escalier 2"
+    },
+    {
+      "programme_id": "BRECE_LE_GRAND_DOMAINE",
+      "capture_id": "EDD",
+      "structure_version": "STR-005",
+      "object_id": "CIR_SAS_SSOL_PLAN_MARCHE_01",
+      "object_type": "CIR",
+      "object_status": "CANDIDAT_STRUCTURE",
+      "label": "SAS Ss-sol",
+      "parent_object_id": "BAT_BRECE_LE_GRAND_DOMAINE_001",
+      "source_id": "SRC_EDD_002",
+      "candidate_anomaly_id": "ANO_EDD_002",
+      "confidence_score": 98,
+      "source_anchor": "Plan QUARTA p.2 SAS Ss-sol ; EDD p.3 art.1.1 ; identifiant stable candidat PLAN_MARCHE"
+    }
+  ]
+}
